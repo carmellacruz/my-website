@@ -1,0 +1,133 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Caveat', cursive;
+  font-size: 4rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  padding: 10px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  COLOR: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+p  {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: LightCyan;
+  position: relative;
+  padding-top: 100px;
+  float: top;
+}
+
+.middle-container{
+  margin: 50px auto;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  top: 300px;
+}
+
+.engineer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cooking {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.carmella{
+  width: 200px;
+}
+
+
+a {
+  color: #11999E;
+  margin: 7px 20px;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+hr {
+  border-style: none;
+  border-top: 6px dotted DarkGray;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.contact-me {
+  margin: 50px auto;
+}
+
+.btn {
+  background-color: #11999E;
+  border-radius: 5px;
+  color: white;
+  margin: 75px auto 75px auto;
+  padding: 5px;
+
+}
+
+.closing-msg {
+  width: 30%;
+  margin: 50px auto 60px;
+}
+
+.bottom-name {
+  margin: 0;
+}
+
+.copyright {
+  color: white;
+}
